@@ -8,7 +8,7 @@ void main(){
   c.funcB();
   c.funcC();
 
-  D d=D();   //Hirachical Inheritance also b.funcA(); & c.funcA();
+  D d=D();   //Hirachical Inheritance also b.funcA(); &  c.funcA();
   d.funcA();
   d.funcD();
   E e=E();
