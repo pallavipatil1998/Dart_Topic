@@ -13,8 +13,7 @@ void main(){
         "Name": "Shalaka",
         "surName": "Maheshwari",
         "Address": "abc"
-      },
-      {
+      },      {
         "Name": "Sahil",
         "surName": "Chaudhari",
         "Address": "pqr"
